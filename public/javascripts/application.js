@@ -15,4 +15,3 @@ function remove_fields(link) {
   }
   $(link).up(".fields").hide();
 }
-
